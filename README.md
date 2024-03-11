@@ -6,5 +6,7 @@ TECHNOLOGIES USED?
 
 To create a best tool I used HTML,CSS & JavaScript .
 HTML - which provides the structure 
+
 CSS - provides the styling
+
 JavaScript - It provides the functionality.
