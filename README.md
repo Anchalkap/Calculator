@@ -5,6 +5,7 @@ Calculator is a tool by which we can easily calculates the high value as well as
 TECHNOLOGIES USED?
 
 To create a best tool I used HTML,CSS & JavaScript .
+
 HTML - which provides the structure 
 
 CSS - provides the styling
